@@ -1,0 +1,31 @@
+{
+  "name": "chaimocha",
+  "version": "1.0.0",
+  "description": "This is Chai Mocha Test Cases Directory",
+  "main": "chaiMocha.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Chai",
+    "Mocha"
+  ],
+  "author": "Yogender Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^3.2.0",
+    "express": "^4.13.3",
+    "mocha": "^2.2.5"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogender-kumar/chaiMocha.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yogender-kumar/chaiMocha/issues"
+  },
+  "homepage": "https://github.com/yogender-kumar/chaiMocha#readme"
+}
