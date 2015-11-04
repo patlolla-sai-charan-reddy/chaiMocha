@@ -1,2 +1,2 @@
 # chaiMocha
-Learn Chai Mocha Unit Test Cases
+Chai Mocha Unit Test Cases
